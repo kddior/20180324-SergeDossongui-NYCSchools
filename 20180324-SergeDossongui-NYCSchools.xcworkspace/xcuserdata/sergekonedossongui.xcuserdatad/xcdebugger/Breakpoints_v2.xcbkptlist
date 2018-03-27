@@ -90,11 +90,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "20180324-SergeDossongui-NYCSchoolsUITestsT/_0180324_SergeDossongui_NYCSchoolsUITestsT.swift"
-            timestampString = "543764354.191939"
+            timestampString = "543806588.595067"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "55"
-            endingLineNumber = "55"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
             landmarkName = "testTableInterraction()"
             landmarkType = "7">
          </BreakpointContent>
@@ -106,11 +106,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "20180324-SergeDossongui-NYCSchoolsUITestsT/_0180324_SergeDossongui_NYCSchoolsUITestsT.swift"
-            timestampString = "543764354.1920069"
+            timestampString = "543806588.595719"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "64"
-            endingLineNumber = "64"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
             landmarkName = "testTableInterraction()"
             landmarkType = "7">
          </BreakpointContent>
@@ -122,7 +122,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "20180324-SergeDossongui-NYCSchoolsUITestsT/_0180324_SergeDossongui_NYCSchoolsUITestsT.swift"
-            timestampString = "543764354.192075"
+            timestampString = "543806588.5962189"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "45"
@@ -138,13 +138,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "20180324-SergeDossongui-NYCSchoolsUITestsT/_0180324_SergeDossongui_NYCSchoolsUITestsT.swift"
-            timestampString = "543764354.19214"
+            timestampString = "543806588.596698"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "76"
-            endingLineNumber = "76"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
             landmarkName = "testTableInterraction()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0180324_SergeDossongui_NYCSchoolsUITestsT._0180324_SergeDossongui_NYCSchoolsUITestsT.testTableInterraction() -&gt; ()"
+                  moduleName = "20180324-SergeDossongui-NYCSchoolsUITestsT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergekonedossongui/Documents/IOS/20180324-SergeDossongui-NYCSchools/20180324-SergeDossongui-NYCSchoolsUITestsT/_0180324_SergeDossongui_NYCSchoolsUITestsT.swift"
+                  timestampString = "543806589.740019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "3877">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #10 : @autoclosure () -&gt; Swift.String in _0180324_SergeDossongui_NYCSchoolsUITestsT._0180324_SergeDossongui_NYCSchoolsUITestsT.testTableInterraction() -&gt; ()"
+                  moduleName = "20180324-SergeDossongui-NYCSchoolsUITestsT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergekonedossongui/Documents/IOS/20180324-SergeDossongui-NYCSchools/20180324-SergeDossongui-NYCSchoolsUITestsT/_0180324_SergeDossongui_NYCSchoolsUITestsT.swift"
+                  timestampString = "543806589.7447129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -202,7 +234,7 @@
                   moduleName = "20180324-SergeDossongui-NYCSchools"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/sergekonedossongui/Documents/IOS/20180324-SergeDossongui-NYCSchools/20180324-SergeDossongui-NYCSchools/Controller/SchoolDetailsViewController.swift"
-                  timestampString = "543764247.0020961"
+                  timestampString = "543806588.7473609"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "201"
@@ -217,7 +249,7 @@
                   moduleName = "20180324-SergeDossongui-NYCSchools"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/sergekonedossongui/Documents/IOS/20180324-SergeDossongui-NYCSchools/20180324-SergeDossongui-NYCSchools/Controller/SchoolDetailsViewController.swift"
-                  timestampString = "543764247.007169"
+                  timestampString = "543806588.752471"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "201"

@@ -50,7 +50,8 @@ class _0180324_SergeDossongui_NYCSchoolsUITestsT: XCTestCase {
         
         //Itterate throw each Row and assert it s moving to next screen
         if tableCells.count > 0 {
-            let count: Int = (tableCells.count - 1)
+            //let count: Int = (tableCells.count - 1)
+            let count: Int = 5
             
             let promise = expectation(description: "Wait for table cells")
             
