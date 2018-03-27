@@ -20,12 +20,12 @@ The following **required** user stories are complete:
 ## Video Walkthrough Demo
 
 Here's a walkthrough of implemented user stories:
-<img src='https://github.com/kddior/20180324-SergeDossongui-NYCSchools/blob/master/Demo.gif' width='400' alt='Video Walkthrough' />
+<img src='https://github.com/kddior/20180324-SergeDossongui-NYCSchools/blob/master/Demo.gif' width='250' alt='Demo' />
 
-## Video Walkthrough Demo UI
+## Video Walkthrough Demo UI Testing
 
 Here's a walkthrough of implemented user stories:
-<img src='https://github.com/kddior/20180324-SergeDossongui-NYCSchools/blob/master/DemoUITest.gif' width='400' alt='Video Walkthrough' />
+<img src='https://github.com/kddior/20180324-SergeDossongui-NYCSchools/blob/master/DemoUITest.gif' width='250' alt='UI Testing' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
