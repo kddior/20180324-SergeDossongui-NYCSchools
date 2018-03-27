@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HomeViewController.prepare(for:sender:):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.tableView(_:didSelectRowAt:):HomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.selectedSchool.getter:HomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.fetchSchool():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "School.init(dictionary:):School.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "self.SelctedSchool.dbn ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SchoolDetailsViewController.SearchSATForSelectedSchool():SchoolDetailsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SchoolDetailsViewController.SearchSATForSelectedSchool():SchoolDetailsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SchoolDetailsViewController.viewDidLoad():SchoolDetailsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SchoolDetailsViewController.selectedSchool.didset:SchoolDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "s">
+            </PersistentString>
+            <PersistentString
+               value = "newValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
