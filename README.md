@@ -1,21 +1,17 @@
 # - *20180324-SergeDossongui-NYCSchools*
 
-*THIS APP   allows the user see
+*This is a simple demostration of the NYCSchool api for user to access Open source data on school in NYX 
 
 Time spent: **10 hours** hours spent in total
 
 ## User Stories
 
-The following **required** user stories are complete:
+The following  user stories were  complete:
 
--[x] Display a list of NYC High Schools Get your data here: https://data.cityofnewyork.us/Education/DOE-High- School-Directory-2017/s3k6- pzi2
-
--[x] Selecting a school should show additional information about the school
-
--[x] Display all the SAT scores -include Math,  Reading and Writing. SAT data here: https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4
-
--[x] Display website and Adress and  location of school
-
+- Display a list of NYC High Schools Get your data here: https://data.cityofnewyork.us/Education/DOE-High- School-Directory-2017/s3k6- pzi2
+- Selecting a school should show additional information about the school
+- Display all the SAT scores -include Math,  Reading and Writing. SAT data here: https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4
+- Display website and Adress and  location of school
 
 ## Video Walkthrough Demo
 
@@ -29,7 +25,6 @@ Here's a walkthrough of implemented user stories:
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 
 
 ## License
