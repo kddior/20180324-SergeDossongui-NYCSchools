@@ -1,4 +1,4 @@
-# - *20180324-SergeDossongui-NYCSchools*
+# - NYCSchools Api IOS/App Discovery*
 
 *This is a simple demostration of the NYCSchool api for user to access Open source data on school in NYX 
 
